@@ -8,4 +8,6 @@ Using languages: `TypeScript`, `Rust`, `Go` and more.
 
 Email: [tokisakiyuu@qq.com](mailto:tokisakiyuu@qq.com?subject=from%20github%20profile)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokisakiyuu&theme=gotham)
+![TokisakiYuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokisakiyuu&theme=gotham&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisakiyuu)
