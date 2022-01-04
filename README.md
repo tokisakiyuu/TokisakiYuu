@@ -6,7 +6,7 @@ Here is Yuu, Welcome
 
 I'm a full stack developer and anime fan.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
 
 #### Using languages:
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/typescript.png?raw=true" /></a>
