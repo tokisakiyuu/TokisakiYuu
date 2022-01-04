@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=tokisakiyuu&style=flat-square)
+![](https://komarev.com/ghpvc/?username=tokisakiyuu&color=orange)
 
 ### Hi there 👋
 
