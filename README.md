@@ -12,7 +12,7 @@ I'm full stack web developer and anime fan.
 <a href="https://www.rust-lang.org/" title="Rust"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/rust.png?raw=true" /></a>
 <a href="https://go.dev/" title="Golang"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/golang.png?raw=true" /></a>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
+![trophy](https://github-profile-trophy.vercel.app/?username=tokisakiyuu)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisakiyuu)
 
