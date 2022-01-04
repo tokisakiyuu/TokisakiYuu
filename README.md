@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=tokisakiyuu&style=flat-square)
+
 ### Hi there 👋
 
 Here is Yuu, Welcome
