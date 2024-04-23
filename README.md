@@ -23,7 +23,8 @@
 #### Contact Me
 <a href="https://github.com/TokisakiYuu/TokisakiYuu/issues" title="Github"><img width="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" /></a>
 <a href="mailto:tokisakiyuu@outlook.com" title="Outlook"><img width="36" src="https://github.com/tokisakiyuu/TokisakiYuu/blob/main/images/post-office.svg?raw=true" /></a>
+<a href="https://space.bilibili.com/9989379" title="Bilibili"><img width="36" src="https://github.com/tokisakiyuu/TokisakiYuu/blob/main/images/bilibili-svgrepo-com.svg?raw=true" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisakiyuu&layout=compact&card_width=350)
+![TokisakiYuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tokisakiyuu&show_icons=true&theme=transparent)
 
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
