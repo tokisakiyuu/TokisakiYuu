@@ -22,7 +22,7 @@
 
 #### Contact Me
 <a href="https://github.com/TokisakiYuu/TokisakiYuu/issues" title="Github"><img width="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" /></a>
-<a href="mailto:tokisakiyuu@outlook.com" title="Outlook">📧</a>
+<a href="mailto:tokisakiyuu@outlook.com" title="Outlook"><img width="36" src="https://github.com/tokisakiyuu/TokisakiYuu/blob/main/images/post-office.svg?raw=true" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisakiyuu&layout=compact&card_width=350)
 
