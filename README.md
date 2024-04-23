@@ -19,7 +19,7 @@ I'm a Full-Stack Web Developer and a Fan of Japanese animation.
 <a href="https://neovim.io/" title="neovim"><img width="120" src="https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/main/Neovim/NeovimShadowed.png?raw=true" /></a>
 <a href="https://code.visualstudio.com/" title="vscode"><img width="120" src="https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/main/VSCode/VSCode-Thick.png?raw=true" /></a>
 
-#### Account Overview
+#### Overview
 ![trophy](https://github-profile-trophy.vercel.app/?username=tokisakiyuu&row=2&column=3&margin-w=10&margin-h=10)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisakiyuu&layout=compact&card_width=350)
