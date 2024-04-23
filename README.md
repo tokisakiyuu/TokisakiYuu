@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=tokisakiyuu&color=orange)
 
 <h2>
-  <img src="https://raw.githubusercontent.com/tokisakiyuu/TokisakiYuu/main/images/welcome.svg" style="width: 100%;">
+  <img src="https://github.com/tokisakiyuu/TokisakiYuu/blob/main/images/welcome.svg?raw=true" style="width: 100%;">
 </h2>
 <h3 align="center">A Full-Stack Web Developer and a Fan of Japanese anime</h3>
 
