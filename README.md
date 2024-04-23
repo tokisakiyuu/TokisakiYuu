@@ -7,7 +7,7 @@ Here is Yuu, Welcome
 I'm a Full-Stack Web Developer and a Fan of Japanese animation.
 
 #### Using Languages
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img width="40" src="https://abrudz.github.io/logos/TypeScript.svg" /></a>
+<a target="_blank" href="https://www.typescriptlang.org/" title="TypeScript"><img width="40" src="https://abrudz.github.io/logos/TypeScript.svg" /></a>
 <img width="40" src="https://abrudz.github.io/logos/JS.svg" />
 <a href="https://www.rust-lang.org/" title="Rust"><img width="40" src="https://abrudz.github.io/logos/Rust.svg" /></a>
 <a href="https://go.dev/" title="Golang"><img width="80" src="https://go.dev/images/go-logo-blue.svg" /></a>
