@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=tokisakiyuu&color=orange)
 
 <h1 align="center">Hi 👋, I'm Yuu</h1>
-<h3 align="center">A Full-Stack Web Developer and a Fan of Japanese animation.</h3>
+<h3 align="center">A Full-Stack Web Developer and a Fan of Japanese anime</h3>
 
 #### Overview
 ![trophy](https://github-profile-trophy.vercel.app/?username=tokisakiyuu&row=1&margin-w=10&margin-h=10)
