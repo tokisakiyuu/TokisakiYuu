@@ -10,7 +10,7 @@
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img width="40" src="https://abrudz.github.io/logos/TypeScript.svg" /></a>
 <img width="40" src="https://abrudz.github.io/logos/JS.svg" />
 <a href="https://www.rust-lang.org/" title="Rust"><img width="40" src="https://abrudz.github.io/logos/Rust.svg" /></a>
-<a href="https://go.dev/" title="Golang"><img width="80" src="https://go.dev/images/go-logo-blue.svg" /></a>
+<a href="https://go.dev/" title="Golang"><img width="40" src="https://github.com/tokisakiyuu/TokisakiYuu/blob/main/images/golang-svgrepo-com.svg?raw=true" /></a>
 <a href="https://www.java.com/" title="Java"><img width="40" src="https://abrudz.github.io/logos/Java.svg" /></a>
 <a href="https://lisp-lang.org/" title="Lisp"><img width="40" src="https://github.com/LispLang/lisplang.github.io/blob/master/assets/img/logo/blue.png?raw=true" /></a>
 <a href="https://www.haskell.org/" title="Haskell"><img width="40" src="https://abrudz.github.io/logos/Haskell.svg" /></a>
