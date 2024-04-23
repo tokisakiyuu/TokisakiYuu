@@ -19,7 +19,7 @@ I'm a Full-Stack Web Developer and a Fan of Japanese animation.
 #### Account Overview
 ![trophy](https://github-profile-trophy.vercel.app/?username=tokisakiyuu&row=2&column=3&margin-w=10&margin-h=10)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisakiyuu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisakiyuu&layout=compact&card_width=350)
 
 #### Contact Me
 - [Github](https://github.com/TokisakiYuu/TokisakiYuu/issues)
