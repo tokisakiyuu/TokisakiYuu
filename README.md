@@ -1,10 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=tokisakiyuu&color=orange)
 
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yuu</h1>
+<h3 align="center">A Full-Stack Web Developer and a Fan of Japanese animation.</h3>
 
-Here is Yuu, Welcome
-
-I'm a Full-Stack Web Developer and a Fan of Japanese animation.
+#### Overview
+![trophy](https://github-profile-trophy.vercel.app/?username=tokisakiyuu&row=1&margin-w=10&margin-h=10)
 
 #### Using Languages
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img width="40" src="https://abrudz.github.io/logos/TypeScript.svg" /></a>
@@ -19,14 +19,11 @@ I'm a Full-Stack Web Developer and a Fan of Japanese animation.
 <a href="https://neovim.io/" title="neovim"><img width="120" src="https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/main/Neovim/NeovimShadowed.png?raw=true" /></a>
 <a href="https://code.visualstudio.com/" title="vscode"><img width="120" src="https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/main/VSCode/VSCode-Thick.png?raw=true" /></a>
 
-#### Overview
-![trophy](https://github-profile-trophy.vercel.app/?username=tokisakiyuu&row=2&column=3&margin-w=10&margin-h=10)
+
+#### Contact Me
+<a href="https://github.com/TokisakiYuu/TokisakiYuu/issues" title="Github"><img width="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" /></a>
+<a href="mailto:tokisakiyuu@outlook.com" title="Outlook">📧</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisakiyuu&layout=compact&card_width=350)
 
-#### Contact Me
-- [Github](https://github.com/TokisakiYuu/TokisakiYuu/issues)
-- [Email](mailto:tokisakiyuu@outlook.com)
-
-#### Lisence
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
