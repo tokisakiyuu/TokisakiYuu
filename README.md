@@ -3,7 +3,7 @@
 <h2>
   <img src="https://github.com/tokisakiyuu/TokisakiYuu/blob/main/images/welcome.svg?raw=true" style="width: 100%;">
 </h2>
-<h3 align="center">A Full-Stack Web Developer and a Fan of Japanese anime</h3>
+<h3 align="center">A Full-Stack Web Developer and a Japanese animation fan</h3>
 
 #### Overview
 ![trophy](https://github-profile-trophy.vercel.app/?username=tokisakiyuu&row=1&margin-w=10&margin-h=10)
