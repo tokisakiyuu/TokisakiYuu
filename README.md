@@ -23,9 +23,9 @@
 
 
 #### Contact Me
-<a href="https://github.com/TokisakiYuu/TokisakiYuu/issues" title="Github"><img width="40" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" /></a>
-<a href="mailto:tokisakiyuu@outlook.com" title="Outlook"><img width="36" src="https://github.com/tokisakiyuu/TokisakiYuu/blob/main/images/post-office.svg?raw=true" /></a>
-<a href="https://space.bilibili.com/9989379" title="Bilibili"><img width="36" src="https://github.com/tokisakiyuu/TokisakiYuu/blob/main/images/bilibili-svgrepo-com.svg?raw=true" /></a>
+<a href="https://github.com/TokisakiYuu/TokisakiYuu/issues" title="Github"><img width="40" src="https://github.com/tokisakiyuu/TokisakiYuu/blob/main/images/github-octocat-svgrepo-com.svg?raw=true" /></a>
+<a href="mailto:tokisakiyuu@outlook.com" title="Outlook"><img width="40" src="https://github.com/tokisakiyuu/TokisakiYuu/blob/main/images/email-svgrepo-com.svg?raw=true" /></a>
+<a href="https://space.bilibili.com/9989379" title="Bilibili"><img width="40" src="https://github.com/tokisakiyuu/TokisakiYuu/blob/main/images/bilibili.svg?raw=true" /></a>
 
 <h1></h1>
 
